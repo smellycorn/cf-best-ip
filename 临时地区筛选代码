@@ -1,0 +1,2 @@
+#临时地区筛选SSH，改变后面的地区代码就行了
+bash /volume2/docker/cfnb/region.sh TW
