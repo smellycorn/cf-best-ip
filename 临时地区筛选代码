@@ -1,2 +1,24 @@
 #临时地区筛选SSH，改变后面的地区代码就行了
 bash /volume2/docker/cfnb/region.sh TW
+
+
+#代码对照
+TW = 台湾
+JP = 日本
+KR = 韩国
+HK = 香港
+SG = 新加坡
+US = 美国
+CA = 加拿大
+GB = 英国
+DE = 德国
+FR = 法国
+NL = 荷兰
+AU = 澳大利亚
+NZ = 新西兰
+MY = 马来西亚
+TH = 泰国
+PH = 菲律宾
+ID = 印度尼西亚
+IN = 印度
+AE = 阿联酋
