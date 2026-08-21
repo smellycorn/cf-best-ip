@@ -1,5 +1,5 @@
 week=2026-W34
-updated=2026-08-21T20:41:12.118600+08:00
+updated=2026-08-21T21:58:45.474391+08:00
 qualification_threshold=10
 
 周稳定排名：
